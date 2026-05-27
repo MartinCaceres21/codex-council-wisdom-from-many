@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Council"
+  short_description: "Codex Council is a decision engine for software development and testing tradeoffs. It weighs Strategy, Risk, and Execution, then returns one concise ruling in English."
+  default_prompt: "Analyze this engineering or testing decision as a council with Strategy, Risk, and Execution advisors, then provide one final ruling, confidence, what would change the decision, and the next step."
