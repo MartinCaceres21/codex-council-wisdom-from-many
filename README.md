@@ -11,7 +11,6 @@ Positioning: this is not a generic advice council. It is a disciplined decision 
 - `SKILL.md`: the installable Codex skill
 - `agents/openai.yaml`: display metadata and default prompt
 - `EXAMPLES.md`: sample prompts and expected outputs
-- `RELEASE_CHECKLIST.md`: a small quality gate for future updates
 
 ## Best For
 
@@ -142,7 +141,3 @@ See [EXAMPLES.md](C:/Users/martin.caceres/codexcouncil/codex-council-wisdom-from
 - an ambiguous case that triggers a clarifying question
 - a tradeoff case with advisor disagreement resolved by the Director
 - a high-risk case with an assumption-sensitive ruling
-
-## Maintenance
-
-Use [RELEASE_CHECKLIST.md](C:/Users/martin.caceres/codexcouncil/codex-council-wisdom-from-many/RELEASE_CHECKLIST.md) before publishing changes for other Codex users.
